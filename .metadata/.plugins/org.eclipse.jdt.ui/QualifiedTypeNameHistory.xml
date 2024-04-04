@@ -1,2 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<qualifiedTypeNameHistroy/>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="desarmandonumeros.DesarmadorDeNumeros"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="Point.PointMain"/>
+    <fullyQualifiedTypeName name="MyPoint.PointMain"/>
+    <fullyQualifiedTypeName name="java.time.LocalDate"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="EquipoDeTrabajo.EquipoDeTrabajo"/>
+</qualifiedTypeNameHistroy>
