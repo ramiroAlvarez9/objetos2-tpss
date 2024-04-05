@@ -5,6 +5,11 @@
     <fullyQualifiedTypeName name="Point.PointMain"/>
     <fullyQualifiedTypeName name="MyPoint.PointMain"/>
     <fullyQualifiedTypeName name="java.time.LocalDate"/>
-    <fullyQualifiedTypeName name="java.util.ArrayList"/>
     <fullyQualifiedTypeName name="EquipoDeTrabajo.EquipoDeTrabajo"/>
+    <fullyQualifiedTypeName name="supermercado.Producto"/>
+    <fullyQualifiedTypeName name="Persona.Persona"/>
+    <fullyQualifiedTypeName name="supermercado.ProductoDePrimeraNecesidad"/>
+    <fullyQualifiedTypeName name="supermercado.ProductoPrimeraNecesidad"/>
+    <fullyQualifiedTypeName name="java.lang.Override"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
 </qualifiedTypeNameHistroy>
