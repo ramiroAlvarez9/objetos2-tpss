@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
     <fullyQualifiedTypeName name="desarmandonumeros.DesarmadorDeNumeros"/>
-    <fullyQualifiedTypeName name="java.lang.System"/>
     <fullyQualifiedTypeName name="Point.PointMain"/>
     <fullyQualifiedTypeName name="MyPoint.PointMain"/>
     <fullyQualifiedTypeName name="java.time.LocalDate"/>
@@ -12,4 +11,9 @@
     <fullyQualifiedTypeName name="supermercado.ProductoPrimeraNecesidad"/>
     <fullyQualifiedTypeName name="java.lang.Override"/>
     <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="products.TraditionalProduct"/>
+    <fullyQualifiedTypeName name="products.CooperativeProduct"/>
+    <fullyQualifiedTypeName name="factura.Factura"/>
+    <fullyQualifiedTypeName name="products.Service"/>
 </qualifiedTypeNameHistroy>

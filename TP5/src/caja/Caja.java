@@ -2,15 +2,19 @@ package caja;
 
 import products.*;
 
+import java.util.ArrayList;
 import java.util.Iterator;
 import java.util.Stack;
+import factura.*;
+import products.*;
 
-public class Caja {
 
-	private Stack<Product> products = new Stack<Product>();
+public class Caja implements AgenciaRecaudadora {
 
-	
-	// add product to products:
+	private Stack<Product> products = new Stack<Product>();	
+	private ArrayList<Factura> facturas = new ArrayList<Factura>();
+
+	// add product to products: 
 	public void addProduct(Product product) {
 		products.push(product);
 	}
@@ -33,6 +37,18 @@ public class Caja {
 			
 		}
 		return total;
+	}
+	
+	public Factura payService(Service service) {
+		
+		Factura factura = new Factura(service.getName(), service.totalPrice());
+		return factura;
+	}
+	
+	public void registrarPago(Factura factura) {
+		
+		facturas.add(factura);
+	
 	}
 
 }
