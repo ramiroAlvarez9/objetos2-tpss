@@ -16,4 +16,6 @@
     <fullyQualifiedTypeName name="products.CooperativeProduct"/>
     <fullyQualifiedTypeName name="factura.Factura"/>
     <fullyQualifiedTypeName name="products.Service"/>
+    <fullyQualifiedTypeName name="banco.administracionBanco"/>
+    <fullyQualifiedTypeName name="cliente.SueldoDePersona"/>
 </qualifiedTypeNameHistroy>

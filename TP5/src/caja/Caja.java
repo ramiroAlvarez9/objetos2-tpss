@@ -28,7 +28,6 @@ public class Caja implements AgenciaRecaudadora {
 		
 		Iterator<Product> productIterator = products.iterator();
 		
-		
 		double total = 0;
 		
 		while (productIterator.hasNext()) {
