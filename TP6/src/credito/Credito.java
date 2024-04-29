@@ -3,15 +3,16 @@ package credito;
 import cliente.*;
 
 public abstract class Credito {
-	private Cliente clienteSolicitante;
-	private double montoSolicitado;
-	private int plazoDeMeses;
-	private double cuotaMensual;
 	
+	public Cliente clienteSolicitante;
+	public double montoSolicitado;
+	public int plazoDeMeses;
+	public double cuotaMensual;
 	
 	public Cliente getClienteSolicitante() {
 		return this.clienteSolicitante;
 	}
+	
 	public double getMontoSolicitado() {
 		return this.montoSolicitado;
 	}
