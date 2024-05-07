@@ -20,4 +20,7 @@
     <fullyQualifiedTypeName name="cliente.Credito"/>
     <fullyQualifiedTypeName name="credito.CreditoPersonal"/>
     <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="credito.Credito"/>
+    <fullyQualifiedTypeName name="ej2sueldosempresa.EmpleadoTemporario"/>
+    <fullyQualifiedTypeName name="ej2sueldosempresa.Empleado"/>
 </qualifiedTypeNameHistroy>

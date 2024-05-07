@@ -8,10 +8,13 @@
     <typeInfo handle="=TP5/src&lt;factura{Factura.java[Factura" modifiers="1" timestamp="1713392325565"/>
     <typeInfo handle="=TP5/src&lt;caja{Caja.java[Caja" modifiers="1" timestamp="1713476580529"/>
     <typeInfo handle="=TP6/test&lt;cliente{Credito.java[Credito" modifiers="1" timestamp="1714345631936"/>
-    <typeInfo handle="=TP6/src&lt;credito{CreditoPersonal.java[CreditoPersonal" modifiers="1" timestamp="1714341146093"/>
-    <typeInfo handle="=TP6/src&lt;credito{CreditoHipotecario.java[CreditoHipotecario" modifiers="1" timestamp="1714346299728"/>
-    <typeInfo handle="=TP6/src&lt;cliente{Cliente.java[Cliente" modifiers="1" timestamp="1714338990087"/>
-    <typeInfo handle="=TP6/src&lt;banco{Banco.java[Banco" modifiers="1" timestamp="1714340414338"/>
-    <typeInfo handle="=TP6/test&lt;cliente{ClienteTest.java[ClienteTest" modifiers="0" timestamp="1714339999771"/>
-    <typeInfo handle="=TP6/test&lt;banco{BancoTest.java[BancoTest" modifiers="0" timestamp="1714341154240"/>
+    <typeInfo handle="=TP6/src&lt;credito{CreditoPersonal.java[CreditoPersonal" modifiers="1" timestamp="1714349889955"/>
+    <typeInfo handle="=TP6/src&lt;credito{CreditoHipotecario.java[CreditoHipotecario" modifiers="1" timestamp="1714349378124"/>
+    <typeInfo handle="=TP6/src&lt;cliente{Cliente.java[Cliente" modifiers="1" timestamp="1714349564185"/>
+    <typeInfo handle="=TP6/src&lt;banco{Banco.java[Banco" modifiers="1" timestamp="1714350632229"/>
+    <typeInfo handle="=TP6/test&lt;cliente{ClienteTest.java[ClienteTest" modifiers="0" timestamp="1714349892927"/>
+    <typeInfo handle="=TP6/test&lt;banco{BancoTest.java[BancoTest" modifiers="0" timestamp="1714350738715"/>
+    <typeInfo handle="=TP7/test&lt;ej2sueldosempresa{EmpleadoTest.java[EmpleadoTest" modifiers="0" timestamp="1714680011282"/>
+    <typeInfo handle="=TP7/src&lt;ej2sueldosempresa{Empleado.java[Empleado" modifiers="1025" timestamp="1714677432125"/>
+    <typeInfo handle="=TP7/src&lt;ej2sueldosempresa{EmpleadoTemporario.java[EmpleadoTemporario" modifiers="1" timestamp="1714680092331"/>
 </typeInfoHistroy>

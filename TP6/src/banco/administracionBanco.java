@@ -1,7 +1,6 @@
 package banco;
 import cliente.*;
-import credito.*;
-
+import credito.Credito;
 
 public interface administracionBanco {
 
