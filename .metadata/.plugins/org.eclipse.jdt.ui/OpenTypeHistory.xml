@@ -11,10 +11,12 @@
     <typeInfo handle="=TP6/src&lt;credito{CreditoPersonal.java[CreditoPersonal" modifiers="1" timestamp="1714349889955"/>
     <typeInfo handle="=TP6/src&lt;credito{CreditoHipotecario.java[CreditoHipotecario" modifiers="1" timestamp="1714349378124"/>
     <typeInfo handle="=TP6/src&lt;cliente{Cliente.java[Cliente" modifiers="1" timestamp="1714349564185"/>
-    <typeInfo handle="=TP6/src&lt;banco{Banco.java[Banco" modifiers="1" timestamp="1714350632229"/>
+    <typeInfo handle="=TP6/src&lt;banco{Banco.java[Banco" modifiers="1" timestamp="1715273638937"/>
     <typeInfo handle="=TP6/test&lt;cliente{ClienteTest.java[ClienteTest" modifiers="0" timestamp="1714349892927"/>
     <typeInfo handle="=TP6/test&lt;banco{BancoTest.java[BancoTest" modifiers="0" timestamp="1714350738715"/>
-    <typeInfo handle="=TP7/test&lt;ej2sueldosempresa{EmpleadoTest.java[EmpleadoTest" modifiers="0" timestamp="1714680011282"/>
-    <typeInfo handle="=TP7/src&lt;ej2sueldosempresa{Empleado.java[Empleado" modifiers="1025" timestamp="1714677432125"/>
-    <typeInfo handle="=TP7/src&lt;ej2sueldosempresa{EmpleadoTemporario.java[EmpleadoTemporario" modifiers="1" timestamp="1714680092331"/>
+    <typeInfo handle="=TP7/src&lt;ej2sueldosempresa{Empleado.java[Empleado" modifiers="1025" timestamp="1715210718485"/>
+    <typeInfo handle="=TP7/test&lt;ej2sueldosempresa{EmpleadoTest.java[EmpleadoTest" modifiers="0" timestamp="1715212150663"/>
+    <typeInfo handle="=TP7/src&lt;ej2sueldosempresa{EmpleadoPasante.java[EmpleadoPasante" modifiers="1" timestamp="1715210693316"/>
+    <typeInfo handle="=TP7/src&lt;ej2sueldosempresa{EmpleadoTemporario.java[EmpleadoTemporario" modifiers="1" timestamp="1715211711585"/>
+    <typeInfo handle="=TP7/src&lt;ej2sueldosempresa{EmpleadoPermanente.java[EmpleadoPermanente" modifiers="1" timestamp="1715212058893"/>
 </typeInfoHistroy>

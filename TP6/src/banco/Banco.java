@@ -53,5 +53,11 @@ public class Banco implements administracionBanco{
 		return total;
 		
 	}
+
+	@Override
+	public void recibirSolicitudDeCredito(credito.Credito credito) {
+		// TODO Auto-generated method stub
+		
+	}
 	
 }

@@ -4,14 +4,16 @@ public class EmpleadoPasante extends Empleado{
 
 	public EmpleadoPasante(String nyap, int horasTrabajadas, boolean tieneConyuge, int cantHijos) {
 		super(nyap, horasTrabajadas, tieneConyuge, cantHijos);
-		this.sueldo = 1000;
 	}
 	
-	@Override
+	@Override  
 	public void calcularSueldo() {
 		
+		this.sueldo = this.horasTrabajadas * 40;
 		
 	}
+	
+	
 	
 	
 	

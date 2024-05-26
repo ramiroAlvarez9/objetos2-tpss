@@ -20,7 +20,7 @@ public abstract class Empleado {
 
         public double descuentosPrevisionales() { return 0.13; }
     
-        public double sueldo() { return sueldo;}
+        public double sueldo() { return this.sueldo;}
     
         public abstract  void calcularSueldo();
 

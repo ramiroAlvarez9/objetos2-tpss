@@ -10,7 +10,6 @@
     <fullyQualifiedTypeName name="supermercado.ProductoDePrimeraNecesidad"/>
     <fullyQualifiedTypeName name="supermercado.ProductoPrimeraNecesidad"/>
     <fullyQualifiedTypeName name="java.lang.Override"/>
-    <fullyQualifiedTypeName name="java.lang.System"/>
     <fullyQualifiedTypeName name="products.TraditionalProduct"/>
     <fullyQualifiedTypeName name="products.CooperativeProduct"/>
     <fullyQualifiedTypeName name="factura.Factura"/>
@@ -19,8 +18,20 @@
     <fullyQualifiedTypeName name="cliente.SueldoDePersona"/>
     <fullyQualifiedTypeName name="cliente.Credito"/>
     <fullyQualifiedTypeName name="credito.CreditoPersonal"/>
-    <fullyQualifiedTypeName name="java.util.ArrayList"/>
     <fullyQualifiedTypeName name="credito.Credito"/>
     <fullyQualifiedTypeName name="ej2sueldosempresa.EmpleadoTemporario"/>
     <fullyQualifiedTypeName name="ej2sueldosempresa.Empleado"/>
+    <fullyQualifiedTypeName name="elementos.similares.Filtro"/>
+    <fullyQualifiedTypeName name="elementos.similares.Wikipedia"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="juegoDeEstategia.Personaje"/>
+    <fullyQualifiedTypeName name="juegoDeEstategia.PersonajeDeJuego"/>
+    <fullyQualifiedTypeName name="repromp3.PlayerState"/>
+    <fullyQualifiedTypeName name="repromp3.ModoSeleccion"/>
+    <fullyQualifiedTypeName name="repromp3.ModoPausa"/>
+    <fullyQualifiedTypeName name="videojuego.JuegoParaDosJugadores"/>
+    <fullyQualifiedTypeName name="videojuego.JuegoParaUnJugador"/>
+    <fullyQualifiedTypeName name="enumstream.TestColorLesionesDermatologicas.ColorDePiel"/>
+    <fullyQualifiedTypeName name="enumstream.ColorPielLesionesDermatologicas"/>
 </qualifiedTypeNameHistroy>
